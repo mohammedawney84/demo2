@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ce4e608-3f02-470f-ab8e-f3f40e1188c8" name="Changes" comment="adding new file string practice">
-      <change afterPath="$PROJECT_DIR$/.idea/dataStructure2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="4ce4e608-3f02-470f-ab8e-f3f40e1188c8" name="Changes" comment="adding new file Dictionary practice">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionary_practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionary_practice.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +120,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1744966853303</updated>
-      <workItem from="1744966854693" duration="3487000" />
+      <workItem from="1744966854693" duration="5191000" />
     </task>
     <task id="LOCAL-00001" summary="adding new function add_element">
       <option name="closed" value="true" />
@@ -151,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744970168054</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="adding new file Dictionary practice">
+      <option name="closed" value="true" />
+      <created>1744977479725</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1744977479725</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,7 +187,8 @@
     <MESSAGE value="adding new function add_element" />
     <MESSAGE value="adding new function remove_last" />
     <MESSAGE value="adding new file string practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding new file string practice" />
+    <MESSAGE value="adding new file Dictionary practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding new file Dictionary practice" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
