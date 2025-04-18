@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ce4e608-3f02-470f-ab8e-f3f40e1188c8" name="Changes" comment="adding new file Dictionary practice">
+    <list default="true" id="4ce4e608-3f02-470f-ab8e-f3f40e1188c8" name="Changes" comment="adding remove function to dictionary">
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dictionary_practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionary_practice.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,36 +20,51 @@
       </list>
     </option>
   </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="branch1" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="branch1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mohammedawney84&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mohammedawney84/demo2&quot;,
+    &quot;accountId&quot;: &quot;5d666f35-61da-493e-9561-af0f32231a03&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2vtaWHKHlCqXy2PewoEEKeE6EHN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.string_practice.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "branch1",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.string_practice.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.string_practice">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="dataStructure2" />
@@ -101,6 +116,7 @@
       <list>
         <item itemvalue="Python.string_practice" />
         <item itemvalue="Python.string_practice" />
+        <item itemvalue="Python.string_practice" />
       </list>
     </recent_temporary>
   </component>
@@ -120,7 +136,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1744966853303</updated>
-      <workItem from="1744966854693" duration="5191000" />
+      <workItem from="1744966854693" duration="8109000" />
     </task>
     <task id="LOCAL-00001" summary="adding new function add_element">
       <option name="closed" value="true" />
@@ -154,7 +170,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744977479725</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="adding remove function to dictionary">
+      <option name="closed" value="true" />
+      <created>1744980978818</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1744980978818</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,7 +195,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="branch1" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -188,7 +212,8 @@
     <MESSAGE value="adding new function remove_last" />
     <MESSAGE value="adding new file string practice" />
     <MESSAGE value="adding new file Dictionary practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding new file Dictionary practice" />
+    <MESSAGE value="adding remove function to dictionary" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding remove function to dictionary" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
